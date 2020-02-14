@@ -3,10 +3,13 @@ On:
        Branches:
                 Master
 Deployed: deployed Amazon ecoon click
-   Run: android 9 
-
+   Run:
+       On click
 Open:
     Eco
 Run: deployed Amazon eco
      On:
         Push 
+Uses: 
+     Android app
+
