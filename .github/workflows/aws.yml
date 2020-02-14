@@ -7,8 +7,7 @@ Deployed: deployed Amazon ecoon click
 Open:
     Eco
 Run: deployed Amazon eco
-     On:
-        Push 
+     On: Push 
 Uses: 
      Android app
 
